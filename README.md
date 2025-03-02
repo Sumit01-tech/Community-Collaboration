@@ -38,7 +38,7 @@ Yoga-Quest-Community/
 sh
 Copy
 Edit
-git clone https://github.com/Sumit01-tech/Yoga-Quest-Community.git
+git clone https://github.com/Sumit01-tech/Community-Collaboration.git
 cd Yoga-Quest-Community
 2️⃣ Install Dependencies
 sh
